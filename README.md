@@ -6,6 +6,11 @@
   *  you can brightly slide the tiles into order by numbers, it can be dotted if you put the tiles into right place;
   *  you can switch the interface btween Uyghur(维吾尔语) and Chinese(中文) language;  
 
+  *  download for android (for ios you must run project yourself)
+
+  [Download Dana](http://7fvd7y.com1.z0.glb.clouddn.com/app-release.apk?attname=&e=1469193621&token=3UHikWA-J5tC7aIEISTGX4vSZX20laF8GS-rFQhu:IenbkLpz_p0V6N-KpS8geEEvDvk)
+  
+
 ## Screens 
 
 ### ios
