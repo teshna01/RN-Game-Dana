@@ -1,1 +1,16 @@
-# A React-Native fifteen data order game.
+# "Dana" - data ordering game.
+
+### Screens 
+
+<img src="Screen/ug-ios-game-board.png" width="308" height="548"/>
+<img src="Screen/ug-ios-game-over.png" width="308" height="548"/>
+<img src="Screen/ug-android-game-board.png" width="308" height="548"/> 
+
+<img src="Screen/cn-ios-game-board.png" width="308" height="548"/>
+<img src="cn-ios-game-over.png" width="308" height="548"/>
+<img src="cn-android-game-board.png" width="308" height="548"/>
+
+
+
+
+
