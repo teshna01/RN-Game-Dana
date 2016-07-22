@@ -3,8 +3,9 @@
 ## About
   this is a simple React-Native game project. 
   
-  *  slide the tiles with numbers and order these. 
-  *  you can switch btween Uyghur and Chinese language mode 
+  *  you can brightly slide the tiles into order by numbers, it can be dotted if you put the tiles into right place;
+  *  you can switch the interface btween Uyghur(维吾尔语) and Chinese(中文) language;  
+
 ## Screens 
 
 ### ios
@@ -33,22 +34,21 @@ git clone https://github.com/teshna01/RN-Game-Dana.git
 npm install
 ```
 ### Step Three
-run ios or android version(you also can run with Android Studio or xCode)
+run ios or android version(you can also run with Android Studio or xCode)
 
 ```
 react-native android/ios
 ```
-## Versions
+## Dependencies
 
   ```
-  "version": "0.0.1"
   "dependencies": {
     "react": "^15.1.0",
     "react-native": "^0.27.2"
   }
   ```
 
- 
+
 
 
 
