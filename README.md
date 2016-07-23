@@ -42,7 +42,7 @@ npm install
 run ios or android version(you can also run with Android Studio or xCode)
 
 ```
-react-native android/ios
+react-native run-android/run-ios
 ```
 ## Dependencies
 
