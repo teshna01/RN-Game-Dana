@@ -97,7 +97,7 @@ export default class Game extends React.Component{
             <FontedText style={styles.header2}>{this.state.langua===0? 'يەنە بىر ئوينامدۇق؟' : '再来一次？' }</FontedText>
             <TouchableOpacity onPress={this.onNewGame.bind(this)}>
               <View style={styles.buttonWrapper}>
-                <FontedText style={styles.button}>{this.state.langua===0? 'يەنە بىر كىلەي' : '我要充玩儿' }</FontedText>
+                <FontedText style={styles.button}>{this.state.langua===0? 'يەنە بىر كىلەي' : '我要重玩儿' }</FontedText>
               </View>
             </TouchableOpacity>
           </View>
